@@ -1,1 +1,2 @@
-wncc something
+wncc 
+hello world
